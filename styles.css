@@ -95,6 +95,16 @@ h2, h1{
     background-color: rgb(242, 5, 5);
     color:  hsl(217, 12%, 63%);
 }
+
+.submit {
+    width: 290px;
+    height: 40px;
+    background-color: rgb(242, 5, 5);
+    border-radius: 30px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
 /* Photo section */
 .photos {
     display: block;
